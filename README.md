@@ -16,8 +16,7 @@
 - 
 - npm install
 - node server.js
-- nmp start
+- npm start
 
--
 
 https://github.com/user-attachments/assets/687edf49-a226-4315-981b-898c4285fac6
