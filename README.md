@@ -18,6 +18,6 @@
 - node server.js
 - nmp start
 
-------
+-
 
-![sdfs](https://github.com/user-attachments/assets/219a5761-701e-4158-a8e7-b0dd0c331eed)
+https://github.com/user-attachments/assets/687edf49-a226-4315-981b-898c4285fac6
